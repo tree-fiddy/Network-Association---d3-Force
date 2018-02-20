@@ -1,0 +1,1 @@
+Q1c:  I chose a quasi-linear scale to higlight degrees relative to every node. I used the .weight property made available to every node to establish degree (and thus, node size).  I chose the color red for easy visibility that the node is pinned. 
